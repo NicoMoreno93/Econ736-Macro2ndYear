@@ -1,5 +1,7 @@
 % % Macro Problem Set 1 % %
 % % ------------------- % %
+% Author: Nicolas Moreno Arias
+% Date: Sep21/2024
 
 % Preamble:
 clear all  clc
